@@ -45,7 +45,7 @@ Music QR Scanner App is a unique mobile application developed using React Native
   - For ios
   ```sh
   npx react-native run-ios
-
+  ```
 ### Prerequisites
 
 1. Fork the Project.
