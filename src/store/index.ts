@@ -1,10 +1,10 @@
 import { configureStore } from '@reduxjs/toolkit'
 import counterReducer from '@/src/store/counter'
-import modalReducer from '@/src/store/modal'
+import audioReducer from '@/src/store/audio'
 
 export default configureStore({
   reducer: {
     counter: counterReducer,
-    modal: modalReducer,
+    audio: audioReducer,
   }
 })

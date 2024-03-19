@@ -30,11 +30,11 @@ Music QR Scanner App is a unique mobile application developed using React Native
    cd MusicScan
 3. Install dependencies
 
-   npm
+   - npm
    ```sh
    npm install
    ```
-   or yarn
+   - yarn
    ```sh
    yarn install
 4. Start the application

@@ -4,10 +4,9 @@ import Music from '@/src/components/Music/music.layout';
 import { ScrollView, View } from 'react-native';
 
 export default function TabOneScreen() {
-  
   return (
-    <View className='dark:bg-dark-slate-800 p-2 pb-24'>
-      <ScrollView showsHorizontalScrollIndicator={false}>
+    <View className='dark:bg-dark-slate-800 p-2'>
+      <ScrollView >
         <Search/>
         <Album/>
         <Music />
