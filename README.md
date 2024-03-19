@@ -24,7 +24,38 @@ Music QR Scanner App is a unique mobile application developed using React Native
 1. Clone the repository:
    ```sh
    git clone https://github.com/hungtq1016/MusicScan.git
-   
 
 2. Navigate to the project directory
-  
+   ```sh
+   cd MusicScan
+3. Install dependencies
+
+   npm
+   ```sh
+   npm install
+   ```
+   or yarn
+   ```sh
+   yarn install
+4. Start the application
+  - For android
+  ```sh
+  npx react-native run-android
+  ```
+  - For ios
+  ```sh
+  npx react-native run-ios
+
+### Prerequisites
+
+1. Fork the Project.
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature).
+3. Commit your Changes (git commit -m 'Add some AmazingFeature').
+3. Push to the Branch (git push origin feature/AmazingFeature).
+4. Open a Pull Request.
+
+### Contact
+
+Hung Tran - hungtran1016@gmail.com
+
+Project Link: https://github.com/hungtq1016/MusicScan
